@@ -1,19 +1,19 @@
-﻿Reporting Period ID,Status,Country,
-2022-MAY,Rainfall,Philippines,
-2022-MAY,Rainfall,Cambodia,
-2022-MAY,Rainfall,Lao PDR,
-2022-MAY,Rainfall,Vietnam,
-2022-MAY,Rainfall,Fiji,
-2022-MAY,Rainfall,Vanuatu,
-2022-MAY,Rainfall,Nepal,
-2022-MAY,Rainfall,Indonesia,
-2022-MAY,Rainfall,Timor-Leste,
-2022-MAY,Rainfall,India,
-2022-MAY,Drought,Bhutan,
-2022-MAY,Drought,Nepal,
-2022-MAY,Drought,Tajikistan,
-2022-MAY,Drought,Kyrgyz Republic,
-2022-MAY,Drought,Afghanistan,
-2022-MAY,Drought,Pakistan,
-2022-MAY,Drought,Mongolia,
-2022-MAY,Drought,India,
+﻿Reporting Period ID,Status,Country,List Group
+2022-MAY,Rainfall,Philippines,A
+2022-MAY,Rainfall,Cambodia,A
+2022-MAY,Rainfall,Lao PDR,A
+2022-MAY,Rainfall,Vietnam,A
+2022-MAY,Rainfall,Fiji,A
+2022-MAY,Rainfall,Vanuatu,B
+2022-MAY,Rainfall,Nepal,B
+2022-MAY,Rainfall,Indonesia,B
+2022-MAY,Rainfall,Timor-Leste,B
+2022-MAY,Rainfall,India,B
+2022-MAY,Drought,Bhutan,A
+2022-MAY,Drought,Nepal,A
+2022-MAY,Drought,Tajikistan,A
+2022-MAY,Drought,Kyrgyz Republic,A
+2022-MAY,Drought,Afghanistan,B
+2022-MAY,Drought,Pakistan,B
+2022-MAY,Drought,Mongolia,B
+2022-MAY,Drought,India,B
