@@ -1,52 +1,52 @@
 ﻿Reporting Period ID,Group,Category,Units,MoM,YoY
-2022-MAY,Energy,"Crude oil, average",($/bbl),-8%,56%
-2022-MAY,Energy,"Natural gas, US",($/mmbtu),34%,126%
-2022-MAY,Edible Oils,Palm oil,($/mt),-5%,48%
-2022-MAY,Edible Oils,Soybean oil,($/mt),0%,24%
-2022-MAY,Edible Oils,Sunflower oil,($/mt),-4%,44%
-2022-MAY,Grains,Maize,($/mt),4%,14%
-2022-MAY,Grains,Rice,($/mt),2%,-13%
-2022-MAY,Grains,"Wheat, US SRW",($/mt),26%,148%
-2022-MAY,Grains,Soybeans,($/mt),0%,11%
-2022-MAY,Other Agriculture Products,"Sugar, world",($/kg),3%,14%
-2022-MAY,Other Agriculture Products,"Cotton, A Index",($/kg),10%,71%
-2022-MAY,Fertilizers,Phosphate rock,($/mt),40%,143%
-2022-MAY,Fertilizers,DAP,($/mt),2%,66%
-2022-MAY,Fertilizers,TSP,($/mt),8%,62%
-2022-MAY,Fertilizers,Urea ,($/mt),6%,179%
-2022-MAY,Fertilizers,Potassium chloride,($/mt),0%,178%
-2022-MAY,Logistics,Baltic Dry Index,,22%,6.50%
-2022-JUN,Energy,"Crude oil, average",($/bbl),-8%,56%
-2022-JUN,Energy,"Natural gas, US",($/mmbtu),34%,126%
-2022-JUN,Edible Oils,Palm oil,($/mt),-5%,48%
-2022-JUN,Edible Oils,Soybean oil,($/mt),0%,24%
-2022-JUN,Edible Oils,Sunflower oil,($/mt),-4%,44%
-2022-JUN,Grains,Maize,($/mt),4%,14%
-2022-JUN,Grains,Rice,($/mt),2%,-13%
-2022-JUN,Grains,"Wheat, US SRW",($/mt),26%,148%
-2022-JUN,Grains,Soybeans,($/mt),0%,11%
-2022-JUN,Other Agriculture Products,"Sugar, world",($/kg),3%,14%
-2022-JUN,Other Agriculture Products,"Cotton, A Index",($/kg),10%,71%
-2022-JUN,Fertilizers,Phosphate rock,($/mt),40%,143%
-2022-JUN,Fertilizers,DAP,($/mt),2%,66%
-2022-JUN,Fertilizers,TSP,($/mt),8%,62%
-2022-JUN,Fertilizers,Urea ,($/mt),6%,179%
-2022-JUN,Fertilizers,Potassium chloride,($/mt),0%,178%
-2022-JUN,Logistics,Baltic Dry Index,,22%,6.50%
-2022-JUL,Energy,"Crude oil, average",($/bbl),-8%,56%
-2022-JUL,Energy,"Natural gas, US",($/mmbtu),34%,126%
-2022-JUL,Edible Oils,Palm oil,($/mt),-5%,48%
-2022-JUL,Edible Oils,Soybean oil,($/mt),0%,24%
-2022-JUL,Edible Oils,Sunflower oil,($/mt),-4%,44%
-2022-JUL,Grains,Maize,($/mt),4%,14%
-2022-JUL,Grains,Rice,($/mt),2%,-13%
-2022-JUL,Grains,"Wheat, US SRW",($/mt),26%,148%
-2022-JUL,Grains,Soybeans,($/mt),0%,11%
-2022-JUL,Other Agriculture Products,"Sugar, world",($/kg),3%,14%
-2022-JUL,Other Agriculture Products,"Cotton, A Index",($/kg),10%,71%
-2022-JUL,Fertilizers,Phosphate rock,($/mt),40%,143%
-2022-JUL,Fertilizers,DAP,($/mt),2%,66%
-2022-JUL,Fertilizers,TSP,($/mt),8%,62%
-2022-JUL,Fertilizers,Urea ,($/mt),6%,179%
-2022-JUL,Fertilizers,Potassium chloride,($/mt),0%,178%
-2022-JUL,Logistics,Baltic Dry Index,,22%,6.50%
+2022-MAY,Energy,"Crude oil, average",($/bbl),-8.00,56.00
+2022-MAY,Energy,"Natural gas, US",($/mmbtu),34.00,126.00
+2022-MAY,Edible Oils,Palm oil,($/mt),-5.00,48.00
+2022-MAY,Edible Oils,Soybean oil,($/mt),0.00,24.00
+2022-MAY,Edible Oils,Sunflower oil,($/mt),-4.00,44.00
+2022-MAY,Grains,Maize,($/mt),4.00,14.00
+2022-MAY,Grains,Rice,($/mt),2.00,-13.00
+2022-MAY,Grains,"Wheat, US SRW",($/mt),26.00,148.00
+2022-MAY,Grains,Soybeans,($/mt),0.00,11.00
+2022-MAY,Other Agriculture Products,"Sugar, world",($/kg),3.00,14.00
+2022-MAY,Other Agriculture Products,"Cotton, A Index",($/kg),10.00,71.00
+2022-MAY,Fertilizers,Phosphate rock,($/mt),40.00,143.00
+2022-MAY,Fertilizers,DAP,($/mt),2.00,66.00
+2022-MAY,Fertilizers,TSP,($/mt),8.00,62.00
+2022-MAY,Fertilizers,Urea ,($/mt),6.00,179.00
+2022-MAY,Fertilizers,Potassium chloride,($/mt),0.00,178.00
+2022-MAY,Logistics,Baltic Dry Index,,22.00,6.50
+2022-JUN,Energy,"Crude oil, average",($/bbl),-8.00,56.00
+2022-JUN,Energy,"Natural gas, US",($/mmbtu),34.00,126.00
+2022-JUN,Edible Oils,Palm oil,($/mt),-5.00,48.00
+2022-JUN,Edible Oils,Soybean oil,($/mt),0.00,24.00
+2022-JUN,Edible Oils,Sunflower oil,($/mt),-4.00,44.00
+2022-JUN,Grains,Maize,($/mt),4.00,14.00
+2022-JUN,Grains,Rice,($/mt),2.00,-13.00
+2022-JUN,Grains,"Wheat, US SRW",($/mt),26.00,148.00
+2022-JUN,Grains,Soybeans,($/mt),0.00,11.00
+2022-JUN,Other Agriculture Products,"Sugar, world",($/kg),3.00,14.00
+2022-JUN,Other Agriculture Products,"Cotton, A Index",($/kg),10.00,71.00
+2022-JUN,Fertilizers,Phosphate rock,($/mt),40.00,143.00
+2022-JUN,Fertilizers,DAP,($/mt),2.00,66.00
+2022-JUN,Fertilizers,TSP,($/mt),8.00,62.00
+2022-JUN,Fertilizers,Urea ,($/mt),6.00,179.00
+2022-JUN,Fertilizers,Potassium chloride,($/mt),0.00,178.00
+2022-JUN,Logistics,Baltic Dry Index,,22.00,6.50
+2022-JUL,Energy,"Crude oil, average",($/bbl),-8.00,56.00
+2022-JUL,Energy,"Natural gas, US",($/mmbtu),34.00,126.00
+2022-JUL,Edible Oils,Palm oil,($/mt),-5.00,48.00
+2022-JUL,Edible Oils,Soybean oil,($/mt),0.00,24.00
+2022-JUL,Edible Oils,Sunflower oil,($/mt),-4.00,44.00
+2022-JUL,Grains,Maize,($/mt),4.00,14.00
+2022-JUL,Grains,Rice,($/mt),2.00,-13.00
+2022-JUL,Grains,"Wheat, US SRW",($/mt),26.00,148.00
+2022-JUL,Grains,Soybeans,($/mt),0.00,11.00
+2022-JUL,Other Agriculture Products,"Sugar, world",($/kg),3.00,14.00
+2022-JUL,Other Agriculture Products,"Cotton, A Index",($/kg),10.00,71.00
+2022-JUL,Fertilizers,Phosphate rock,($/mt),40.00,143.00
+2022-JUL,Fertilizers,DAP,($/mt),2.00,66.00
+2022-JUL,Fertilizers,TSP,($/mt),8.00,62.00
+2022-JUL,Fertilizers,Urea ,($/mt),6.00,179.00
+2022-JUL,Fertilizers,Potassium chloride,($/mt),0.00,178.00
+2022-JUL,Logistics,Baltic Dry Index,,22.00,6.50
